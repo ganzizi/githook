@@ -6,6 +6,7 @@
  * @File  :   http_server.php
  * @Desc  :   ...
  */
+echo 'ssh-test-for-person';
 ini_set('display_errors', 1);
 ini_set('memory_limit', '256M');
 error_reporting(E_ALL);
