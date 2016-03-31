@@ -6,9 +6,6 @@
  * @File  :   http_server.php
  * @Desc  :   ...
  */
-echo 'ssh-test-for-person';
-date_interval_format('ncurses_inch(oid)');
-echo 'elseif-test';
 ini_set('display_errors', 1);
 ini_set('memory_limit', '256M');
 error_reporting(E_ALL);
